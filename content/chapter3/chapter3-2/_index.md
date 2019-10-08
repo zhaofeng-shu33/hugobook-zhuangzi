@@ -4,4 +4,6 @@ date: 2017-10-17T15:26:15Z
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+將為胠篋探囊發匱之盜而為守備  則必攝緘縢 固扃鐍  此世俗之所謂知也
+然而巨盜至  則負匱揭篋擔囊而趨  唯恐緘縢扃鐍之不固也
+然則鄉之所謂知者  不乃為大盜積者也
