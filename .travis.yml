@@ -3,17 +3,16 @@ dist: xenial
 language: generic
 cache:
   directories:
-    - /usr/local/bin
+    - /tmp/hugo
 
 install:
-  - ls /usr/local/bin
   - |
-    if [[ ! -f /usr/local/bin/hugo ]]; then
+    if [[ ! -f /tmp/hugo/hugo ]]; then
       wget https://github.com/gohugoio/hugo/releases/download/v0.58.3/hugo_0.58.3_Linux-64bit.tar.gz
       sudo tar -xzf hugo_0.58.3_Linux-64bit.tar.gz -C /usr/local/bin/
     fi
 script:
-  - hugo
+  - /tmp/hugo/hugo
 
 deploy:
   - provider: pages
